@@ -176,3 +176,13 @@ Forces graphics quality to 1 (while being able to change render distance!)
   "DFIntDebugFRMQualityLevelOverride": 1
 }
 ```
+
+## How to add FFlags to this list
+
+Please do not open an issue, instead make a pull request and add the FFlag to the correct section, with the correct format and below the latest FFlag
+```json
+{
+  "Flag1": "Value",
+  "Flag2" : 23
+}
+```
