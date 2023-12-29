@@ -8,8 +8,7 @@ Forces Direct3D11 (better performance on newer pcs)
 {
   "FFlagDebugGraphicsDisableDirect3D11": false,
   "FFlagDebugGraphicsPreferD3D11": true,
-  "FFlagDebugGraphicsPreferD3D11FL10": false,
-  "FFlagGraphicsEnableD3D10Compute": true
+  "FFlagDebugGraphicsPreferD3D11FL10": false
 }
 ```
 
