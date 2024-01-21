@@ -57,7 +57,7 @@ Disables terrain grass (?)
   "FIntFRMMinGrassDistance": 0,
   "FIntFRMMaxGrassDistance": 0,
   "FIntRenderGrassDetailStrands": 0,
-  "FintRenderGrassHeightScaler": 0
+  "FIntRenderGrassHeightScaler": 0
 }
 ```
 
