@@ -77,7 +77,7 @@ Makes Roblox at high res. lower quality
 }
 ```
 
-Disables textures
+Disables textures (doesn't give perf boost, only visual)
 
 ```json
 {
@@ -107,7 +107,7 @@ Disables player shadows
 }
 ```
 
-Disables some effects (like sunrays) (use with the 
+Disables some effects (like sunrays)
 
 ```json
 {
@@ -173,6 +173,21 @@ Forces graphics quality to 1 (while being able to change render distance!)
 ```json
 {
   "DFIntDebugFRMQualityLevelOverride": 1
+}
+```
+
+Enable Hyperthreading
+
+```json
+{
+ "FFlagRenderCheckThreading": "True"
+}
+```
+
+Removes most textures of other players
+```json
+{
+  "DFIntTextureCompositorActiveJobs": 0
 }
 ```
 
