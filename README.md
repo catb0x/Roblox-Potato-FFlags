@@ -7,8 +7,7 @@ Forces Direct3D11 (better performance on newer pcs)
 ```json
 {
   "FFlagDebugGraphicsDisableDirect3D11": false,
-  "FFlagDebugGraphicsPreferD3D11": true,
-  "FFlagDebugGraphicsPreferD3D11FL10": false
+  "FFlagDebugGraphicsPreferD3D11": true
 }
 ```
 
