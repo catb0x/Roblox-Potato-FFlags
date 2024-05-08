@@ -184,9 +184,19 @@ Enable Hyperthreading
 ```
 
 Removes most textures of other players
+
 ```json
 {
   "DFIntTextureCompositorActiveJobs": 0
+}
+```
+
+Disable new topbar/pause menu and leaderboard
+
+```json
+{
+    "FFlagEnableInGameMenuChromeABTest2": "False",
+    "FFlagEnableReportAbuseMenuRoactABTest2": "False"
 }
 ```
 
