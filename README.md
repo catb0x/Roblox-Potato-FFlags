@@ -191,7 +191,7 @@ Removes most textures of other players
 }
 ```
 
-Disable new topbar/pause menu/leaderboard
+Disable new topbar/pause menu and leaderboard
 
 ```json
 {
